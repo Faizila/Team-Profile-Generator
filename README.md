@@ -4,15 +4,9 @@ It's a command-line application.
 
 # Description
 
-* This is a node.js command-line application that dynamically generates a team profile based on user's input using the Inquirer module from Node.js.
+* This is a Node.js command-line application that takes in information about employees in a team, then dynamically generates an HTML webpage that displays summaries for each person using the Inquirer module. 
 
-* It displays the information on a newly generated html page.
-
-*This application demonstrates the use of Object-oriented programming (OOP) and Test-driven development (TDD) using jest module from Node.js.
-
-* When user types node index.js in the command line then the user is prompted with few questions.
-
-* Once user answers all the questions then this application generates a html page based on user's response.
+* Team-Profile-Generator application demonstrates the use of Object-oriented programming (OOP) and Test-driven development (TDD) using jest module from Node.js.
 
 # Table of Contents
 
@@ -49,6 +43,7 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
+User will be prompted with few questions and based on user's input this application generates an HTML webpage.
 
 Watch video demonstration under video section.
 
@@ -61,6 +56,8 @@ Watch video demonstration under video section.
 Faizila Amlani
 
 # Testing
+
+Install [Jest](https://www.npmjs.com/package/jest) for running the unit tests.
 
 Run the following commands for testing:
 
