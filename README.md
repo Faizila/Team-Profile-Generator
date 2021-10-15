@@ -4,7 +4,9 @@ It's a command-line application.
 
 # Description
 
-* This is a Node.js command-line application that takes in information about employees in a team, then dynamically generates an HTML webpage that displays summaries for each person using the Inquirer module. 
+* This is a Node.js command-line application that takes in information about employees on a software engineering team.
+
+* This app based on user input dynamically generates an HTML webpage that displays each team member as a card with their name, role, ID, email, and other information specific to their role using the Inquirer module. 
 
 * Team-Profile-Generator application demonstrates the use of Object-oriented programming (OOP) and Test-driven development (TDD) using jest module from Node.js.
 
@@ -43,7 +45,19 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
-User will be prompted with few questions and based on user's input this application generates an HTML webpage.
+The user is then prompted to choose what type of employee they would like to create first from the following options: Manager, Engineer or Intern.
+
+The manager option requires the user to input the name, ID, email, and office number.
+
+The engineer option requires the user to input the name, ID, email, and github username.
+
+The intern option requires the user to input the name, ID, email, and school.
+
+The user is then prompted to choose if they want to add another employee card by answering "Yes" or "No".
+
+If user chooses "Yes", the employee type question appears and user goes through the same process again.
+
+If user chooses "No", an HTML webpage is generated with all the employees selected based on user's input.
 
 Watch video demonstration under video section.
 

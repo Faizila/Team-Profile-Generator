@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 // link to page creation
-const generateHTML = require(' ');
+const generateTeam = require('./src/page-template');
 
 // team profiles
 const Manager = require("./lib/Manager");
