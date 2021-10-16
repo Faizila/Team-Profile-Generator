@@ -25,7 +25,9 @@ It's a command-line application.
 
 # Built With:
 
-[Inquirer package](https://www.npmjs.com/package/inquirer)
+* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+
+* Uses the [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
 
 # Installation
 
@@ -45,19 +47,19 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
-The user is then prompted to choose what type of employee they would like to create first from the following options: Manager, Engineer or Intern.
+The user is then prompted with the team manager questions that requires the user to input the name, ID, email, and office number.
 
-The manager option requires the user to input the name, ID, email, and office number.
+User is then prompted to choose what type of employee they would like add to the team from the following options: Engineer or Intern.
 
 The engineer option requires the user to input the name, ID, email, and github username.
 
 The intern option requires the user to input the name, ID, email, and school.
 
-The user is then prompted to choose if they want to add another employee card by answering "Yes" or "No".
+The user is then prompted to choose if they want to add another employee card by answering "Y" or "N".
 
-If user chooses "Yes", the employee type question appears and user goes through the same process again.
+If user chooses "Y-Yes", the employee type question appears and user goes through the same process again.
 
-If user chooses "No", an HTML webpage is generated with all the employees selected based on user's input.
+If user chooses "N-No", an HTML webpage is generated with all the employees selected based on user's input.
 
 Watch video demonstration under video section.
 
@@ -78,10 +80,11 @@ Run the following commands for testing:
 ```bash
 npm run test
 ```
+Refer to Video section for a walkthrough video on how to run test.
 
 # Link
 
-Refer to Video section for sample generated HTML page.
+Refer to Video section for sample generatedTeam HTML page.
 
 DEMO: 
 
@@ -91,6 +94,9 @@ DEMO:
 # Video
 
 See a walkthrough video demonstrating the functionality of the application here:
+
+
+See a walkthrough video demonstrating how to run test here:
 
 
 DEMO: 
