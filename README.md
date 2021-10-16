@@ -90,6 +90,7 @@ DEMO:
 
 # Screenshots
 
+![test](https://user-images.githubusercontent.com/78191579/137602190-0c06b8d6-5f14-44c0-892a-753fc9a0d499.JPG)
 
 # Video
 
@@ -97,7 +98,7 @@ See a walkthrough video demonstrating the functionality of the application here:
 
 
 See a walkthrough video demonstrating how to run test here:
-
+https://watch.screencastify.com/v/x7Z9z5mDvnXZ2ETurgmr
 
 DEMO: 
 
