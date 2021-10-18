@@ -95,12 +95,14 @@ DEMO:
 # Video
 
 See a walkthrough video demonstrating the functionality of the application here:
+https://watch.screencastify.com/v/zFlb8GOt9l7Cl3JQg1xB
 
+DEMO functionality:
 
 See a walkthrough video demonstrating how to run test here:
 https://watch.screencastify.com/v/x7Z9z5mDvnXZ2ETurgmr
 
-DEMO: 
+DEMO test: https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/test.gif 
 
 # Questions
 
