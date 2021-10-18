@@ -99,7 +99,7 @@ DEMO:
 See a walkthrough video demonstrating the functionality of the application here:
 https://watch.screencastify.com/v/zFlb8GOt9l7Cl3JQg1xB
 
-DEMO functionality:
+DEMO functionality: https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functionality.gif
 
 See a walkthrough video demonstrating how to run test here:
 https://watch.screencastify.com/v/x7Z9z5mDvnXZ2ETurgmr
