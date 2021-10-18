@@ -86,7 +86,7 @@ Refer to Video section for a walkthrough video on how to run test.
 
 Refer to Video section for sample generatedTeam HTML page.
 
-DEMO: 
+DEMO functionality: https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functionality.gif 
 
 # Screenshots
 
