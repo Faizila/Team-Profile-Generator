@@ -90,6 +90,8 @@ DEMO:
 
 # Screenshots
 
+![generatedteam](https://user-images.githubusercontent.com/78191579/137752242-5fa07918-8760-4e90-8966-47ad20d93f66.JPG)
+![bash-team](https://user-images.githubusercontent.com/78191579/137752219-c45a7fbd-4ba5-4044-a0c4-123744def910.JPG)
 ![test](https://user-images.githubusercontent.com/78191579/137602190-0c06b8d6-5f14-44c0-892a-753fc9a0d499.JPG)
 
 # Video
