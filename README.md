@@ -101,6 +101,7 @@ https://watch.screencastify.com/v/d4AvLoYetCvkic8WQVFX
 
 DEMO functionality: 
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functionality.gif
+https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/email.gif
 
 See a walkthrough video demonstrating how to run test here:
 https://watch.screencastify.com/v/x7Z9z5mDvnXZ2ETurgmr
