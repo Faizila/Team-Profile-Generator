@@ -69,15 +69,15 @@ const addManager = () => {
                     return true;
                 }
             }
-        },
-       ])
+        }
+    ])
     .then(managerInput => {
         const  { name, id, email, officeNumber } = managerInput; 
         const manager = new Manager (name, id, email, officeNumber);
 
-       })
+        teamArray.push(manager); 
+    })
 };
-
 const addEmployee = () => {
     return inquirer.prompt ([
 
