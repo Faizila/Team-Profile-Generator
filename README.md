@@ -84,14 +84,13 @@ Refer to Video section for a walkthrough video on how to run test.
 
 # Link
 
-Refer to Video section for sample generatedTeam HTML page.
-
-DEMO functionality: https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functionality.gif 
+Refer to Video section for walkthrough video links on functionality and unit testing.
 
 # Screenshots
 
 ![generatedteam](https://user-images.githubusercontent.com/78191579/137752242-5fa07918-8760-4e90-8966-47ad20d93f66.JPG)
 ![bash-team](https://user-images.githubusercontent.com/78191579/137752219-c45a7fbd-4ba5-4044-a0c4-123744def910.JPG)
+![validate](https://user-images.githubusercontent.com/78191579/137801376-e99de769-b5fb-4608-874b-e579542bc811.JPG)
 ![test](https://user-images.githubusercontent.com/78191579/137602190-0c06b8d6-5f14-44c0-892a-753fc9a0d499.JPG)
 
 # Video
