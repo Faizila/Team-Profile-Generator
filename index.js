@@ -69,7 +69,12 @@ const addManager = () => {
                     return true;
                 }
             }
-        }
+        },
+        {
+            type: 'confirm',
+            name: 'confirmAddEmployee',
+            message: 'Would you like to add more team members?',
+          }
     ])
     .then(managerInput => {
         const  { name, id, email, officeNumber } = managerInput; 
