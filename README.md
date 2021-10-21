@@ -102,6 +102,7 @@ https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functiona
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/email.gif
 
 See a walkthrough video demonstrating how to run test here:
+<br>
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/test.gif 
 
 # Questions
