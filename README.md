@@ -97,22 +97,11 @@ Refer to Video section for walkthrough video links on functionality and unit tes
 
 See a walkthrough video demonstrating the functionality of the application here:
 <br>
-https://watch.screencastify.com/v/zFlb8GOt9l7Cl3JQg1xB
-<br>
-https://watch.screencastify.com/v/d4AvLoYetCvkic8WQVFX
-
-DEMO functionality: 
-<br>
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/functionality.gif
 <br>
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/email.gif
 
 See a walkthrough video demonstrating how to run test here:
-<br>
-https://watch.screencastify.com/v/x7Z9z5mDvnXZ2ETurgmr
-
-DEMO test: 
-<br>
 https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/GIF/test.gif 
 
 # Questions
